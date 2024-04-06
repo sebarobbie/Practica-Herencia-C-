@@ -1,0 +1,14 @@
+D:\Coding\Practica Herencia C#\bin\Debug\net8.0\Practica Herencia C#.exe
+D:\Coding\Practica Herencia C#\bin\Debug\net8.0\Practica Herencia C#.deps.json
+D:\Coding\Practica Herencia C#\bin\Debug\net8.0\Practica Herencia C#.runtimeconfig.json
+D:\Coding\Practica Herencia C#\bin\Debug\net8.0\Practica Herencia C#.dll
+D:\Coding\Practica Herencia C#\bin\Debug\net8.0\Practica Herencia C#.pdb
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.AssemblyInfoInputs.cache
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.AssemblyInfo.cs
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.csproj.CoreCompileInputs.cache
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.dll
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\refint\Practica Herencia C#.dll
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.pdb
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\Practica Herencia C#.genruntimeconfig.cache
+D:\Coding\Practica Herencia C#\obj\Debug\net8.0\ref\Practica Herencia C#.dll
